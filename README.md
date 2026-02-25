@@ -18,9 +18,9 @@ I am consistently solving problems to prepare for technical interviews and place
 | Difficulty | Problems Solved |
 |------------|-----------------|
 | 🟢 Easy    | 01              |
-| 🟡 Medium  | 00              |
+| 🟡 Medium  | 02              |
 | 🔴 Hard    | 00              |
-| ✅ Total   | 01              |
+| ✅ Total   | 02              |
 
 *(Updated regularly)*
 
