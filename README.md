@@ -35,9 +35,18 @@ I am consistently solving problems to prepare for technical interviews and place
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Krrishika29/DSA_Practice/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Krrishika29/DSA_Practice/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Krrishika29/DSA_Practice/tree/master/0125-valid-palindrome) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Krrishika29/DSA_Practice/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Krrishika29/DSA_Practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
