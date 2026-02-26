@@ -17,10 +17,10 @@ I am consistently solving problems to prepare for technical interviews and place
 
 | Difficulty | Problems Solved |
 |------------|-----------------|
-| 🟢 Easy    | 01              |
-| 🟡 Medium  | 02              |
+| 🟢 Easy    | 02              |
+| 🟡 Medium  | 01              |
 | 🔴 Hard    | 00              |
-| ✅ Total   | 02              |
+| ✅ Total   | 03              |
 
 *(Updated regularly)*
 
