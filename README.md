@@ -36,6 +36,7 @@ I am consistently solving problems to prepare for technical interviews and place
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Krrishika29/DSA_Practice/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Krrishika29/DSA_Practice/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Krrishika29/DSA_Practice/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Krrishika29/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Krrishika29/DSA_Practice/tree/master/0344-reverse-string) |
@@ -49,6 +50,7 @@ I am consistently solving problems to prepare for technical interviews and place
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Krrishika29/DSA_Practice/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Krrishika29/DSA_Practice/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Krrishika29/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krrishika29/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
