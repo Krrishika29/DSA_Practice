@@ -50,6 +50,7 @@ I am consistently solving problems to prepare for technical interviews and place
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Krrishika29/DSA_Practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Krrishika29/DSA_Practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krrishika29/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Krrishika29/DSA_Practice/tree/master/0027-remove-element) |
@@ -68,4 +69,8 @@ I am consistently solving problems to prepare for technical interviews and place
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krrishika29/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Krrishika29/DSA_Practice/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
