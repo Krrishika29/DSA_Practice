@@ -47,6 +47,7 @@ I am consistently solving problems to prepare for technical interviews and place
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Krrishika29/DSA_Practice/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Krrishika29/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Krrishika29/DSA_Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Krrishika29/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Krrishika29/DSA_Practice/tree/master/0344-reverse-string) |
@@ -58,6 +59,7 @@ I am consistently solving problems to prepare for technical interviews and place
 | [0014-longest-common-prefix](https://github.com/Krrishika29/DSA_Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krrishika29/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Krrishika29/DSA_Practice/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/Krrishika29/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Krrishika29/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krrishika29/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Krrishika29/DSA_Practice/tree/master/0169-majority-element) |
@@ -70,6 +72,7 @@ I am consistently solving problems to prepare for technical interviews and place
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Krrishika29/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Krrishika29/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Krrishika29/DSA_Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Krrishika29/DSA_Practice/tree/master/0242-valid-anagram) |
@@ -82,6 +85,7 @@ I am consistently solving problems to prepare for technical interviews and place
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Krrishika29/DSA_Practice/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Krrishika29/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Krrishika29/DSA_Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Krrishika29/DSA_Practice/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
