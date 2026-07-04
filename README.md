@@ -65,6 +65,7 @@ I am consistently solving problems to prepare for technical interviews and place
 | [0169-majority-element](https://github.com/Krrishika29/DSA_Practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Krrishika29/DSA_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Krrishika29/DSA_Practice/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Krrishika29/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krrishika29/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -77,6 +78,7 @@ I am consistently solving problems to prepare for technical interviews and place
 | [0088-merge-sorted-array](https://github.com/Krrishika29/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Krrishika29/DSA_Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Krrishika29/DSA_Practice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Krrishika29/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krrishika29/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -90,14 +92,17 @@ I am consistently solving problems to prepare for technical interviews and place
 | [0169-majority-element](https://github.com/Krrishika29/DSA_Practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Krrishika29/DSA_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Krrishika29/DSA_Practice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Krrishika29/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Krrishika29/DSA_Practice/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Krrishika29/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Krrishika29/DSA_Practice/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Krrishika29/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 ## Trie
 |  |
 | ------- |
@@ -106,4 +111,16 @@ I am consistently solving problems to prepare for technical interviews and place
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Krrishika29/DSA_Practice/tree/master/0219-contains-duplicate-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Krrishika29/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Krrishika29/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Krrishika29/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
