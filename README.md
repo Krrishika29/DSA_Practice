@@ -51,6 +51,7 @@ I am consistently solving problems to prepare for technical interviews and place
 | [0125-valid-palindrome](https://github.com/Krrishika29/DSA_Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Krrishika29/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Krrishika29/DSA_Practice/tree/master/0344-reverse-string) |
+| [0692-top-k-frequent-words](https://github.com/Krrishika29/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 ## Array
 |  |
 | ------- |
@@ -66,6 +67,7 @@ I am consistently solving problems to prepare for technical interviews and place
 | [0219-contains-duplicate-ii](https://github.com/Krrishika29/DSA_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Krrishika29/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Krrishika29/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Krrishika29/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krrishika29/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -79,6 +81,7 @@ I am consistently solving problems to prepare for technical interviews and place
 | [0169-majority-element](https://github.com/Krrishika29/DSA_Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Krrishika29/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Krrishika29/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Krrishika29/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krrishika29/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -93,6 +96,7 @@ I am consistently solving problems to prepare for technical interviews and place
 | [0219-contains-duplicate-ii](https://github.com/Krrishika29/DSA_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Krrishika29/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Krrishika29/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Krrishika29/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,10 +107,12 @@ I am consistently solving problems to prepare for technical interviews and place
 | ------- |
 | [0169-majority-element](https://github.com/Krrishika29/DSA_Practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Krrishika29/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Krrishika29/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Krrishika29/DSA_Practice/tree/master/0014-longest-common-prefix) |
+| [0692-top-k-frequent-words](https://github.com/Krrishika29/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 ## Sliding Window
 |  |
 | ------- |
@@ -115,10 +121,12 @@ I am consistently solving problems to prepare for technical interviews and place
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Krrishika29/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Krrishika29/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Krrishika29/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Krrishika29/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
