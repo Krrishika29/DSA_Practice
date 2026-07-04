@@ -63,6 +63,7 @@ I am consistently solving problems to prepare for technical interviews and place
 | [0088-merge-sorted-array](https://github.com/Krrishika29/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krrishika29/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Krrishika29/DSA_Practice/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Krrishika29/DSA_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Krrishika29/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krrishika29/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -87,6 +88,7 @@ I am consistently solving problems to prepare for technical interviews and place
 | [0001-two-sum](https://github.com/Krrishika29/DSA_Practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Krrishika29/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Krrishika29/DSA_Practice/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Krrishika29/DSA_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Krrishika29/DSA_Practice/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -100,4 +102,8 @@ I am consistently solving problems to prepare for technical interviews and place
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Krrishika29/DSA_Practice/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Krrishika29/DSA_Practice/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
