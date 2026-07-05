@@ -69,6 +69,7 @@ I am consistently solving problems to prepare for technical interviews and place
 | [0347-top-k-frequent-elements](https://github.com/Krrishika29/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Krrishika29/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krrishika29/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/Krrishika29/DSA_Practice/tree/master/1046-last-stone-weight) |
 ## Greedy
 |  |
 | ------- |
@@ -122,6 +123,7 @@ I am consistently solving problems to prepare for technical interviews and place
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Krrishika29/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Krrishika29/DSA_Practice/tree/master/0692-top-k-frequent-words) |
+| [1046-last-stone-weight](https://github.com/Krrishika29/DSA_Practice/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
