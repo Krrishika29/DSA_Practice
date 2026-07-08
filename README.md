@@ -133,4 +133,20 @@ I am consistently solving problems to prepare for technical interviews and place
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Krrishika29/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Krrishika29/DSA_Practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Krrishika29/DSA_Practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Krrishika29/DSA_Practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Krrishika29/DSA_Practice/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
