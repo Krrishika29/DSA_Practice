@@ -88,6 +88,7 @@ I am consistently solving problems to prepare for technical interviews and place
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krrishika29/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Krrishika29/DSA_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,12 +144,14 @@ I am consistently solving problems to prepare for technical interviews and place
 | [0094-binary-tree-inorder-traversal](https://github.com/Krrishika29/DSA_Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Krrishika29/DSA_Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krrishika29/DSA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Krrishika29/DSA_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Krrishika29/DSA_Practice/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Krrishika29/DSA_Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krrishika29/DSA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Krrishika29/DSA_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Krrishika29/DSA_Practice/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -156,6 +159,7 @@ I am consistently solving problems to prepare for technical interviews and place
 | [0094-binary-tree-inorder-traversal](https://github.com/Krrishika29/DSA_Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Krrishika29/DSA_Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krrishika29/DSA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Krrishika29/DSA_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Krrishika29/DSA_Practice/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
