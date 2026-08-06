@@ -76,6 +76,7 @@ I am consistently solving problems to prepare for technical interviews and place
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krrishika29/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Krrishika29/DSA_Practice/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,4 +95,16 @@ I am consistently solving problems to prepare for technical interviews and place
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Krrishika29/DSA_Practice/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Krrishika29/DSA_Practice/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Krrishika29/DSA_Practice/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Krrishika29/DSA_Practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
