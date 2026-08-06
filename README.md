@@ -75,6 +75,7 @@ I am consistently solving problems to prepare for technical interviews and place
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Krrishika29/DSA_Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krrishika29/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Krrishika29/DSA_Practice/tree/master/0509-fibonacci-number) |
 ## Hash Table
@@ -98,6 +99,7 @@ I am consistently solving problems to prepare for technical interviews and place
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Krrishika29/DSA_Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Krrishika29/DSA_Practice/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -106,5 +108,6 @@ I am consistently solving problems to prepare for technical interviews and place
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Krrishika29/DSA_Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Krrishika29/DSA_Practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
