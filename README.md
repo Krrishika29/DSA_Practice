@@ -99,6 +99,7 @@ I am consistently solving problems to prepare for technical interviews and place
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Krrishika29/DSA_Practice/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/Krrishika29/DSA_Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Krrishika29/DSA_Practice/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Krrishika29/DSA_Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
